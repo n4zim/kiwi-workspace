@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+            "name": "< - - - - [ BUNDLE ] - - - - >",
+			"path": "bundle"
+		},
+		{
+            "name": "< - - - - [  DEMO  ] - - - - >",
+			"path": "demo"
+		}
+	],
+	"settings": {}
+}
