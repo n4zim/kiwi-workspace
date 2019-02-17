@@ -1,0 +1,7 @@
+[submodule "bundle"]
+	path = bundle
+	url = git@github.com:theblueforest/kiwi-bundle.git
+
+[submodule "demo"]
+	path = demo
+	url = git@github.com:theblueforest/kiwi-demo.git
